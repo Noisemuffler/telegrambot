@@ -1,0 +1,13 @@
+{
+  "name": "telegrambot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
