@@ -1,4 +1,3 @@
-s (20 sloc)  671 Bytes
 {
     "name": "heroku/heroku-buildpack-php",
     "description": "Toolkit for starting a PHP application locally, with or without foreman, using the same config for PHP/HHVM and Apache2/Nginx as on Heroku",
